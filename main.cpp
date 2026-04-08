@@ -20,19 +20,6 @@ void func(int cnt) {
 	}
 }
 
-int main(){
-	cin >> N >> M;
-	func(0);
-	return 0;
-}
-
-
-
-
-
-
-}
-
 int main() {
    cin >> N >> M;
    func(0);
